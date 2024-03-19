@@ -20,7 +20,7 @@ Software Engineering project, academic year 2021/2022. Partecipants: Anzillotti 
 | Disconnections<br/>Resilience | 🟢 |
 
 # Project specification
-The project aims to create a videogame of the board game Eriantys.
+The project aims to create a videogame of the board game Eriantys by Cranio Creations (https://www.craniocreations.it/en/product/eriantys).
 
 ## Setup
 
