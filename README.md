@@ -19,9 +19,9 @@ Software Engineering project, academic year 2021/2022. Partecipants: Anzillotti 
 | 4 Players Game                | 🔴 |
 | Disconnections<br/>Resilience | 🟢 |
 
-# Eriantys
+# Project specification
+The project aims to create a videogame of the board game Eriantys.
 
--------
 ## Setup
 
 -----------
