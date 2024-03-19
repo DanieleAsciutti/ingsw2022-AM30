@@ -1,6 +1,8 @@
 # ingsw2022-AM30
 Software Engineering project, academic year 2021/2022. Partecipants: Anzillotti Giuseppe, Asciutti Daniele, Borgonovo Samuele
 
+Final grade: 30/30 with laude
+
 - ###   10721209    Giuseppe Anzillotti <br> ([@GiuseppeAnzillotti](https://github.com/GiuseppeAnzillotti)) <br>giuseppe.anzillotti@mail.polimi.it
 - ###   10678078    Daniele Asciutti    <br>([@DanieleAsciutti](https://github.com/DanieleAsciutti)) <br>daniele.asciutti@mail.polimi.it
 - ###   10669269    Samuele Borgonovo <br> ([@SamueleBorgonovo](https://github.com/SamueleBorgonovo)) <br>samuele.borgonovo@mail.polimi.it
@@ -19,12 +21,14 @@ Software Engineering project, academic year 2021/2022. Partecipants: Anzillotti 
 | 4 Players Game                | 🔴 |
 | Disconnections<br/>Resilience | 🟢 |
 
+Legend
+
+🔴 Not implemented 🟢 Implemented
+
 # Project specification
 The project aims to create a videogame of the board game Eriantys by Cranio Creations (https://www.craniocreations.it/en/product/eriantys).
 
 ## Setup
-
------------
 
 - In the [Deliveries](Deliveries) folder there is one jar file to start both server and client.
 - The Application can be run with the following command:
@@ -62,6 +66,7 @@ Model contains all the logic of our project, so the controller has not been test
 * [Astah UML](https://astah.net/) - Initial UML Diagram
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [IntelliJ](https://www.jetbrains.com/idea/) - IDE
+* [Junit](https://junit.org/junit5/) - Testing
 * [JavaFX](https://openjfx.io) - Graphical Framework
 
 ## License
