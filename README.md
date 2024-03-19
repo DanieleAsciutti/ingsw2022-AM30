@@ -1,5 +1,5 @@
 # ingsw2022-AM30
-Progetto di Ingegneria del Software AA 2021/2022. Partecipanti: Anzillotti Giuseppe, Asciutti Daniele, Borgonovo Samuele
+Software Engineering project, academic year 2021/2022. Partecipants: Anzillotti Giuseppe, Asciutti Daniele, Borgonovo Samuele
 
 - ###   10721209    Giuseppe Anzillotti <br> ([@GiuseppeAnzillotti](https://github.com/GiuseppeAnzillotti)) <br>giuseppe.anzillotti@mail.polimi.it
 - ###   10678078    Daniele Asciutti    <br>([@DanieleAsciutti](https://github.com/DanieleAsciutti)) <br>daniele.asciutti@mail.polimi.it
